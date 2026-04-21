@@ -173,47 +173,57 @@ casanova-ai-app/
 
 ├── docs/
 
-│ ├── tesis.pdf
+│ └── tesis.pdf
 
-│ ├── resumen-negocio.md
+│ └── resumen-negocio.md
 
 │
 
 ├── product/
 
-│ ├── overview.md
+  └── overview.md
 
-│ ├── user-flow.md
+  └── user-flow.md
 
-│ ├── propuesta-valor.md
+  └── propuesta-valor.md
 
 │
 
 ├── ai/
 
-│ ├── prompts/
+  └── arquitectura.md
 
-│ ├── enfoque-ia.md
+  └── Diagrama-de-Arquitectura.mmd
+
+  └── enfoque-ia.md
+
+  └── prompts/
+
+    └─── prompt-lovable.md
 
 │
 
 ├── demo/
 
-│ ├── Casanova-app-video-final.mp4
+  └── Casanova-app-video-final.mp4
 
-│ ├── screenshots/
+  └── screenshots/
 
-│
-
-├── app/
-
-│ ├── (código o referencia)
+    └── 1-Casanova-app.png
+    └── 2-Como-funciona.png
+    └── 3-Comienza-tu-proyecto.png
+    └── 4-Dashboard-Bienvenida.png
+    └── 5-Foto-Creacion-Proyecto.png
+    └── 6-Propuesta-renders.png
+    └── 7-Seleccion-Propuesta.png
+    └── 8-Seleccion-Constructor.png
+    └── 9-Confirmacion-Cotizacion-formal.png
+    └── 10-Dashboard-final.png
 
 │
 
 └── roadmap/
-
-├── siguientes-pasos.md
+  └── siguientes-pasos.md
 
 
 ---
