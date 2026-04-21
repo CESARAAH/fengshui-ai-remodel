@@ -90,7 +90,7 @@ Responsabilidad:
 
 ## 📌 Diagrama de arquitectura
 
-(Insertar aquí el diagrama generado)
+https://github.com/CESARAAH/fengshui-ai-remodel/blob/main/ai/Architecture_Diagram.mmd
 
 ---
 
