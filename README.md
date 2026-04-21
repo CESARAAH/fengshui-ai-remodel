@@ -1,5 +1,5 @@
-# Casanova App 
-# Plataforma de Remodelación basada en IA
+# Plataforma de Remodelación basada en IA - Casanova App 
+
 
 ## 🚀 ¿Por qué esto importa?
 
