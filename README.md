@@ -181,49 +181,49 @@ casanova-ai-app/
 
 ├── product/
 
-  └── overview.md
+│ └── overview.md
 
-  └── user-flow.md
+│ └── user-flow.md
 
-  └── propuesta-valor.md
+│ └── propuesta-valor.md
 
 │
 
 ├── ai/
 
-  └── arquitectura.md
+│ └── arquitectura.md
 
-  └── Diagrama-de-Arquitectura.mmd
+│ └── Diagrama-de-Arquitectura.mmd
 
-  └── enfoque-ia.md
+│ └── enfoque-ia.md
 
-  └── prompts/
+│ └── prompts/
 
-    └─── prompt-lovable.md
+│ │  └─── prompt-lovable.md
 
 │
 
 ├── demo/
 
-  └── Casanova-app-video-final.mp4
+│ └── Casanova-app-video-final.mp4
 
-  └── screenshots/
+│ └── screenshots/
 
-    └── 1-Casanova-app.png
-    └── 2-Como-funciona.png
-    └── 3-Comienza-tu-proyecto.png
-    └── 4-Dashboard-Bienvenida.png
-    └── 5-Foto-Creacion-Proyecto.png
-    └── 6-Propuesta-renders.png
-    └── 7-Seleccion-Propuesta.png
-    └── 8-Seleccion-Constructor.png
-    └── 9-Confirmacion-Cotizacion-formal.png
-    └── 10-Dashboard-final.png
+│ │  └── 1-Casanova-app.png
+│ │  └── 2-Como-funciona.png
+│ │  └── 3-Comienza-tu-proyecto.png
+│ │  └── 4-Dashboard-Bienvenida.png
+│ │  └── 5-Foto-Creacion-Proyecto.png
+│ │  └── 6-Propuesta-renders.png
+│ │  └── 7-Seleccion-Propuesta.png
+│ │  └── 8-Seleccion-Constructor.png
+│ │  └── 9-Confirmacion-Cotizacion-formal.png
+│ │  └── 10-Dashboard-final.png
 
 │
 
 └── roadmap/
-  └── siguientes-pasos.md
+│ └── siguientes-pasos.md
 
 
 ---
