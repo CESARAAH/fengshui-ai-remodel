@@ -134,7 +134,7 @@ Esto permite escalabilidad y diferenciación sostenible.
 https://fengshui-ai-remodel.lovable.app  
 
 👉 Video de producto:  
-[PEGA AQUÍ TU LINK DE VIDEO FINAL]
+https://youtu.be/89fxjdGenRM
 
 ---
 
@@ -180,8 +180,7 @@ casanova-ai-app/
 │ ├── enfoque-ia.md
 │
 ├── demo/
-│ ├── video-final.mp4
-│ ├── video-inicial.mp4
+│ ├── Casanova-app-video-final.mp4
 │ ├── screenshots/
 │
 ├── app/
