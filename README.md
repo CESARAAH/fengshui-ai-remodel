@@ -210,14 +210,23 @@ casanova-ai-app/
 │ └── screenshots/
 
 │ │  └── 1-Casanova-app.png
+
 │ │  └── 2-Como-funciona.png
+
 │ │  └── 3-Comienza-tu-proyecto.png
+
 │ │  └── 4-Dashboard-Bienvenida.png
+
 │ │  └── 5-Foto-Creacion-Proyecto.png
+
 │ │  └── 6-Propuesta-renders.png
+
 │ │  └── 7-Seleccion-Propuesta.png
+
 │ │  └── 8-Seleccion-Constructor.png
+
 │ │  └── 9-Confirmacion-Cotizacion-formal.png
+
 │ │  └── 10-Dashboard-final.png
 
 │
