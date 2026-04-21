@@ -1,4 +1,5 @@
-# Casanova App – Plataforma de Remodelación basada en IA
+# Casanova App 
+# Plataforma de Remodelación basada en IA
 
 ## 🚀 ¿Por qué esto importa?
 
@@ -163,30 +164,55 @@ Go-to-market:
 
 ## 📂 Estructura del repositorio
 casanova-ai-app/
+
 │
+
 ├── README.md
+
 │
+
 ├── docs/
+
 │ ├── tesis.pdf
+
 │ ├── resumen-negocio.md
+
 │
+
 ├── product/
+
 │ ├── overview.md
+
 │ ├── user-flow.md
+
 │ ├── propuesta-valor.md
+
 │
+
 ├── ai/
+
 │ ├── prompts/
+
 │ ├── enfoque-ia.md
+
 │
+
 ├── demo/
+
 │ ├── Casanova-app-video-final.mp4
+
 │ ├── screenshots/
+
 │
+
 ├── app/
+
 │ ├── (código o referencia)
+
 │
+
 └── roadmap/
+
 ├── siguientes-pasos.md
 
 
