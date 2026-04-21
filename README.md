@@ -232,6 +232,7 @@ casanova-ai-app/
 │
 
 └── roadmap/
+
 │ └── siguientes-pasos.md
 
 
