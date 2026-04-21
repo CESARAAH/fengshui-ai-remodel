@@ -166,9 +166,7 @@ Go-to-market:
 casanova-ai-app/
 
 │
-
 ├── README.md
-
 │
 
 ├── docs/
@@ -176,25 +174,20 @@ casanova-ai-app/
 │ ├── tesis.pdf
 
 │ ├── resumen-negocio.md
-
 │
 
 ├── product/
-
 │ ├── overview.md
 
 │ ├── user-flow.md
 
 │ ├── propuesta-valor.md
-
 │
 
 ├── ai/
-
 │ ├── prompts/
 
 │ ├── enfoque-ia.md
-
 │
 
 ├── demo/
@@ -202,17 +195,13 @@ casanova-ai-app/
 │ ├── Casanova-app-video-final.mp4
 
 │ ├── screenshots/
-
 │
 
 ├── app/
-
 │ ├── (código o referencia)
-
 │
 
 └── roadmap/
-
 ├── siguientes-pasos.md
 
 
